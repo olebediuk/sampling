@@ -40,30 +40,108 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to identify main reasons for employee turnover among entry and lower level staff and evaluate overall employee satisfaction. The survey results should provide management with information about areas of improvement like compensation, career growth, work wvironment and leadership support.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: All current and recently departed employee in entry and lower-level positions.
+Sampling frame: HR database of current and former employee for the last 12 months.
+Sampling units: individual employee.
+Observational units: individual employee as I am colleting data about employees.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1.What department do/did you work in?
+
+☐ Engineering
+
+☐ Customer Service
+
+☐ Finance
+
+☐ IT Support
+
+☐ Sales
+
+☐ Other (please specify): 
+
+2.How long have you worked/worked at the company?
+
+☐ Less than 6 months
+
+☐ 6 months to 1 year
+
+☐ 1 to 2 years
+
+☐ Over 2 years
+
+3. How satisfied are/were you with your overall experience at the company?
+
+☐ Very Satisfied
+
+☐ Satisfied
+
+☐ Neutral
+
+☐ Dissatisfied
+
+☐ Very Dissatisfied
+
+4. Select top 3 reasons for considering or deciding to leave the company? (Select up to 3)
+
+☐ Compensation
+
+☐ Lack of career advancement
+
+☐ Poor work-life balance
+
+☐ Management/supervision issues
+
+☐ Lack of recognition
+
+☐ Work environment
+
+☐ Company culture
+
+☐ Other (please specify): 
+
+5. Do/did you feel that your contributions are/were valued by your manager?
+
+☐ Always
+
+☐ Often
+
+☐ Sometimes
+
+☐ Rarely
+
+☐ Never
+
+6. Do/did you have a clear path for career growth or promotion?
+
+☐ Yes
+
+☐ No
+
+☐ Not sure
+
+7. What you beleive the company could make to better retain employees in your role?
+(Open-ended)
+
+8. Would you recommend this company as a good place to work to a friend or peer?
+
+☐ Yes
+
+☐ No
+
+☐ Maybe
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +149,20 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1.Sample type: stratified probability sample
+2.Sample size: 80,000 individuals (60,000 regular sample, 20,000 oversample)
+3.Target population: Individuals aged 15+, living in private households in Canada’s 10 provinces. Excludes full-time institutional residents and residents of Yukon, Northwest Territories and Nunavut.
+4.Sampling frame: based on the 2021 Census long-form; frame stratified by province and population group.
+5.Survey mode(s): Self-administered electronic questionnaire (EQ) and Computer-Assisted Telephone Interviewing (CATI).
+6.Timeline: data collected from September 15, 2023 to March 30, 2024.
+7.Response rate: the overall response rate was 40.9% (42.2% for the regular sample and 37.1% for the oversample).
+8.Weights: person-level weights (WGHT_PER) were adjusted so that the weighted income distribution of 2023 SGVP matched the 2022 Canadian Income Survey (CIS) distribution by province.
+9.Data processing: Social Survey Processing Environment (SSPE)
+10.Cleaning, imputation, etc: automatic and manual edits, donor imputation and mean imputation.
+11.Sources of error: sampling error, response error, non-measurement error,processing error and coverage.
+12.Limitations, known biases, etc: non-response bias, excluded population and moderate reponse rate of 41%.
+13.Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/en/catalogue/89F0115X
+
 ```
 
 ## Rubric
